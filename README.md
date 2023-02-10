@@ -1,2 +1,2 @@
 # Bootstrap
-Repositório com aprendizado e exercícios: Bootstrap
+- Repositório com: artigos, aprendizados, exercícios e projetos.
